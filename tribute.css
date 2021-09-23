@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(cover.png);
+    
+}
+
+h1 , h3 {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+   
+}
+p{
+    color: white;
+    
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
+h1{
+    padding-top: 50px;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+   
+}
+#img-caption{
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+#about {
+      color:white;
+      border: 2px;
+
+}
+.center{
+    text-align: center;
+}
+
+#see-also{
+    color: red;
+    padding:1em;
+    text-align: center;
+    display:inline-block;
+    text-decoration: none !important;
+    margin:0 auto;
+}
+.see-also{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
